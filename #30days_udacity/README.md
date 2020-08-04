@@ -1,3 +1,8 @@
+[D4]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D4%20Latm_first_meeting.png
+[D4-1]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D4%20spaic%20meetup%202.png
+
+[D11]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/%20D11%20spaic%20meeting%204%20.png
+
 # NUTANIX HYBRID CLOUD FOUNDATION COURSE
 # #30days_udacity
 
@@ -19,10 +24,23 @@
   
 I would like to encourage @Sabyh, @Fernando Terrazas, @AndyP, @Anshu Trivedi, @Oudarjya Sen Sarma, @Marco__, @Madison, @Frida and @Mariia to continue their good work!
 
-## Day 4 Saturday July 11, 2020
+## D4 Saturday July 11, 2020
   1. Today I continued with Lesson 2.10 - 2.12
   2. In addition to participating in 2 meetings
     The first was with the #sg_latm group along with @Domingo Perez @Jorge Barrera @Patricio Rojas @Fernando Terrazas where we met and talked a little about ourselves.
     The second was with the #sg_spaic group along with @Mariia, @Rishi Rao, @Oudarjya Sen Sarma, @Vincent Battaglia, @Sabyh, @Vatsal Vora, @Melissa Bloomer, @Raunak Sarada, @DSdatsme, @Shankar Warang, @Maham Arif, @LauraT , @Muhammad Usama Khan, @Frida. It was great meeting with them for a long time, we planned a lot of things
 
 I would like to encourage @Sabyh, @AndyP, @Anshu Trivedi, @Oudarjya Sen Sarma, @Marco_, @Madison, @Anmol Gupta and @Yash Mathur to continue their good work! 
+
+Latam Meeting
+![Latam meeting][D4]
+Spaic Meeting
+![Spaic meeting][D4-1]
+
+## D5 Sunday July 12, 2020
+  1. Today I participated in initiatives of the #sg_spaic team
+  2. Today I participated in a meeting with the Machine Learning Scholarship Azure group
+It was a very relaxed but beautiful day
+I would like to encourage @Mariia, @LauraT, @Sabyh, @AndyP, @Anshu Trivedi, @Oudarjya Sen Sarma, @Marco_, @Madison, @Anmol Gupta and @Yash Mathur to continue their good work!
+
+
