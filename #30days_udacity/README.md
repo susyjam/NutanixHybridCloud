@@ -1,17 +1,26 @@
 [D4]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D4%20Latm_first_meeting.png
 [D4-1]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D4%20spaic%20meetup%202.png
-[D7]:
-[D8]:
-[D9]:
-[D10]:
-[D11-1]:
-[D11-2]:
-[D11-3]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/%20D11%20spaic%20meeting%204%20.png
-[D12]:
-[D13]:
-[D14]:
-[D15]:
-
+[D7]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D7%20nutanix.png
+[D8]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D8%20Nutanix.png
+[D9]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D9%20Nutanix.png
+[D10]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D10%20Nutanix.png
+[D11-1]:https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D11%20nutanix.png
+[D11-2]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D11%20Latm%20meeting.jpg
+[D11-3]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D11%20spaic%20meetup.PNG
+[D11-4]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D11%20spaic%20meetup%202.png
+[D11-5]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D11%20spaic%20meetup%203.png
+[D11-6]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/%20D11%20spaic%20meeting%204%20.png
+[D12-1]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D12-1%20ML.png
+[D12-2]:https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D12-2%20ML.png
+[D13-1]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D13%20Meeting%20Sg%20Spanish.png
+[D13-2]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D13%20Participants%20IoT%20%2B%20ML%20introduction%20meeting.jpg
+[D14]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D14%20Nutanix.png
+[D15]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D15%20Nutanix.png 
+[D16]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D16%20Nutanix.png
+[D17]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D17%20Nutanix.png
+[D18-1]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D18-1%20Nutanix.png
+[D18-2]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D18-2%20Nutanix.jpg
+[D18-3]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D18-3%20Nutanix.png
 [D19]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D19%20Nutanix.png
 [D20]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D20%20Nutanix.png
 [D21]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D21%20Nutanix.png
@@ -23,6 +32,7 @@
 [D25-3]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D25%20Meeting%20sgSpaic%20%233%20Nutanix.png
 [D27]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D27%20Nutanix.png
 [D28]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D28%20Nutanix.png
+[D29]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D29%20Nutanix.png
 
 # NUTANIX HYBRID CLOUD FOUNDATION COURSE
 # #30days_udacity
@@ -63,6 +73,130 @@ Spaic Meeting
   2. Today I participated in a meeting with the Machine Learning Scholarship Azure group
 It was a very relaxed but beautiful day
 I would like to encourage @Mariia, @LauraT, @Sabyh, @AndyP, @Anshu Trivedi, @Oudarjya Sen Sarma, @Marco_, @Madison, @Anmol Gupta and @Yash Mathur to continue their good work!
+
+## D6 Monday July 13, 2020
+Today continue with lesson 2 (2.13-2.16)
+  1. I started today with the first lesson of the Microsoft Azure Machine Learning Scholarship
+  2. Today I answered pending comments on slack
+  
+I would like to encourage @Anshu Trivedi @Sabyh @Raunak Sarada @Marco_ @Fernando Terrazas @Domingo Perez @Krishna Chari 
+
+## D7 Tuesday July 14, 2020
+  1. Today I continued with lesson 2 (2.17-2.23)
+  2. Today I continued with my Intel project.
+  3. Today I started with the posts in #introductions, I am very happy that you like and support the initiative:ojos_de_corazón:, thanks @Yash Mathur, we make a great team yeii
+  
+I would like to encourage @LauraT @Frida @Shankar Warang @Selvi @Prathyusha @Sabyh @Raunak Sarada @Marco_ @Fernando Terrazas :
+
+![Advance D7][D7]
+
+## D8 Wednesday July 15, 2020
+  1. I continued with lesson 2 (2.24 - 2.32)
+  2. Today I continued with my Intel project.
+  
+I would like to encourage @Domingo Perez @Marco_ @Sabyh @Yash Mathur @Mariia
+
+![Advance D8][D8]
+
+## D9 Thursday July 16, 2020
+  1. Today I finished with lesson 2 yeiii !!! :gorro_de_fiesta:(Although I had a problem filling out this form, since I can't find the course in the options, if someone could help me I would really appreciate it)
+  2. Today I continued with my Intel project.
+  
+I would like to encourage @Mokit Hossain @Laxmi Sravya Rudraraju @Marco_ @Sabyh @Harkirat Singh @Frida @Fernando Terrazas
+
+![Advance D9][D9]
+
+## D10 Friday July 17, 2020
+  1. Today I started with lesson 3 (3.1-3.4)
+  2. Today I continued with my project Intel.
+  
+I would like to encourage @Harkirat Singh @Mokit Hossain @Marco_ @Frida @Yash Mathur @Anshu Trivedi @Oudarjya Sen Sarma @Raunak Sarada  ​
+
+![Advance D10][D10]
+
+## D11 Saturday July 18, 2020:dancing_penguin:
+  1. Today I continued with lesson 3 (3.5-3.7)
+  2. Today I continued with my Intel project.
+  3. Today I had 2 fun meetings with
+  
+  3.1. #sg_latm, where @Jorge Luis Rodríguez González and @Domingo Perez exposed topics about nutanix and Cloud, Thanks@Jorge Barrera @Fernando Terrazas @AndyP @Christian Rivera @luchonetvv @Viena Baca @Patricio.Rojas @Fabian Bastidas @Víctor Valentinuzzi
+ 
+ 3.2. #sg_spaic, where presented very interesting topics. it was a very informative and fun meeting. Thanks @Mariia @Rishi Rao @Muhammad Haris @Muhammad Usama Khan @DSdatsme @Kapil C @LauraT @Mahitej @Mir Shahzad @Raunak Sarada @SaikatPandit @Shankar Warang @Vatsal Vora @Vincent Battaglia @Frida  @Oudarjya Sen Sarma @Fernando Terrazas  @Gautam @Sabyh
+  
+I love meeting days, you always learn something great:corazón_púrpura:
+I would like to encourage @Sabyh @Marco_ @Harkirat Singh @Yash Mathur :dancing_penguin::meow_party:
+
+![Advance D11-1][D11-1]
+Metting Latam 
+![Metting Latam D11-2][D11-2]
+Metting SPAIC
+![Metting Spaic  D11-3][D11-3]
+![Metting Spaic D11-4][D11-4]
+![Metting Spaic D11-5][D11-5]
+![Metting Spaic D11-6][D11-6]
+
+## D12 Sunday July 19, 2020
+  1. Today I reviewed some concepts from lesson 2 to start the challenge
+  2. Today I continued with my Intel project.
+  3. Today I had meetings with my Microsoft ML groups
+  
+I would like to encourage @Fernando Terrazas @Marco_ @Oudarjya Sen Sarma @Jorge Barrera
+
+![Metting Spaic D12-1][D12-1]
+![Metting Spaic D12-2][D12-2]
+
+## D13 Monday July 20, 2020
+  1. Today I continued with the lesson 3 (3.7-3.11) 
+  2. Today I continued with my Intel project. 
+
+I would like to encourage @Sabyh @Harkirat Singh @Fernando Terrazas @Frida @Yash Mathur @Marco_ @Oudarjya Sen Sarma @Mokit Hossain @LauraT 
+
+![Metting Spanish  D13-1][D13-1]
+![Metting IoT ML  D13-2][D13-2]
+
+## D14 Tuesday July 21, 2020
+  1. Today I continued with the lesson 3 (3.12-3.18) 
+  2. Today I continued with my Intel project.
+  
+I would like to encourage @Sabyh @Harkirat Singh @Fernando Terrazas @Frida @Yash Mathur @Marco_ @Oudarjya Sen Sarma @Mokit Hossain @LauraT  @AndyP @Hugo Martinez @Gabriela Urquieta 
+
+![Advance D14][D14]
+
+## D15 Wednesday July 22, 2020
+  1. Today I finished with lesson 3 yeiii!
+  2. Today I continued with my Intel project.
+I would like to encourage @Sabyh @Mariia @Harkirat Singh @Víctor Valentinuzzi @Vincent Battaglia @Fernando Terrazas @Frida @Yash Mathur @Marco_ @Oudarjya Sen Sarma @Mokit Hossain @LauraT @AndyP @Hugo Martinez @Gabriela Urquieta
+
+![Advance D15][D15]
+
+## D16 Thursday, July 23, 2020
+  1. Today I started with lesson 4 Hybrid Cloud Security yeiii! 
+  2. Today I continued with my Intel project
+  
+I would like to encourage @Sabyh @Mariia @Harkirat Singh @Vincent Battaglia @Fernando Terrazas @Frida @Yash Mathur @Marco_ @Oudarjya Sen Sarma @Mokit Hossain @LauraT @AndyP @Hugo Martinez @Yash Bhamare @ironBot @Patricio.Rojas @Pree
+
+![Advance D16][D16]
+
+## D17 Friday, July 24, 2020
+  1. Today I continued with lesson 4 Hybrid Cloud Security (4.6 - 4.10)
+  2. Today I continued with my Intel project.
+  
+I would like to encourage @Sabyh @Mariia @Harkirat Singh @Fernando Terrazas @Frida @Yash Mathur @Marco_ @Oudarjya Sen Sarma @Mokit Hossain @LauraT @AndyP @Hugo Martinez @Yash Bhamare @ironBot @Patricio.Rojas @Anshu Trivedi @Domingo Perez @Víctor Valentinuzzi
+
+![Advance D17][D17]
+
+## D18 Saturday, July 25, 2020
+  1. Today I continued with lesson 4 Hybrid Cloud Security (4.11 - 4.16):dancing_penguin::cara_de_nerd:
+  2. Today I had a meeting with the #sg_latm group and there were two presentations by @Edi (link) and @Patricio.Rojas (link) (spanish) @Jorge Barrera @Jorge Luis Rodríguez González @Domingo Perez @AndyP @Fernando Terrazas @Viena Baca @Vladimir Albertiyan @Víctor Valentinuzzi thanks
+  3. In addition to a meeting with the #sg_spaic  group where there were also presentations by @Mir Shahzad and @Yash Bhamare ...  @Mariia, @Abhik Banerjee, @Frida, @Mir Shahzad, @Anantharam Vemuri, @DSdatsme, @Gautam, @Glin Zachariah, @Kapil C, @LauraT, @Muhammad Haris, @Raunak Sarada, @Vatsal Vora, @Vishal Ambavade, @Yash Bhamare, @Anantharam Vemuri, @Mahitej, @Oudarjya Sen Sarma Thanks
+  4. Today I continued with my Intel project.
+  
+I would like to encourage @Harkirat Singh @Yash Mathur @Sabyh @Marco_ @Anshu Trivedi 
+
+![Advance D18-1][D18-1]
+![Advance D18-2][D18-2]
+![Advance D18-3][D18-3]
+
 
 ## D19 Sunday, July 26, 2020
   1. Today I finished with lesson 4 Hybrid Cloud Security yeii!  
@@ -141,3 +275,9 @@ I would like to encourage @Fernando Tello @Yash Mathur @AndyP @Harkirat Singh @S
 I would like to encourage @Fernando Tello @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Frida @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Patricio.Rojas @Humberto
 
 ![Advance D28][D28]
+
+## D29 Wednesday, August 5, 2020
+  1. Today I continued Lesson 7 Data prediction (7.5-7.8)
+I would like to encourage @Fernando Tello @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Frida @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain 
+
+![Advance D29][D29]
