@@ -278,6 +278,7 @@ I would like to encourage @Fernando Tello @Yash Mathur @AndyP @Harkirat Singh @S
 
 ## D29 Wednesday, August 5, 2020
   1. Today I continued Lesson 7 Data prediction (7.5-7.8)
+  
 I would like to encourage @Fernando Tello @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Frida @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain 
 
 ![Advance D29][D29]
