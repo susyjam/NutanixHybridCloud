@@ -33,6 +33,7 @@
 [D27]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D27%20Nutanix.png
 [D28]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D28%20Nutanix.png
 [D29]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D29%20Nutanix.png
+[D30]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D30%20Nutanix.png
 
 # NUTANIX HYBRID CLOUD FOUNDATION COURSE
 # #30days_udacity
@@ -282,3 +283,11 @@ I would like to encourage @Fernando Tello @Yash Mathur @AndyP @Harkirat Singh @S
 I would like to encourage @Fernando Tello @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Frida @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain 
 
 ![Advance D29][D29]
+
+## D30 Thursday August 6, 2020
+  1. Today I continued the lesson 7 Data Prediction (7.9-7.14)
+  2. Today is the day of the independence of my country Bolivia, I wish to congratulate all Bolivians who are here, Happy day!
+  
+I would like to encourage @Fernando Tello @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Frida @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera
+
+![Advance D30][D30]
