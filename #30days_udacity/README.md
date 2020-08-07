@@ -287,6 +287,8 @@ I would like to encourage @Fernando Tello @Yash Mathur @AndyP @Harkirat Singh @S
 ## D30 Thursday August 6, 2020
   1. Today I continued the lesson 7 Data Prediction (7.9-7.14)
   2. Today is the day of the independence of my country Bolivia, I wish to congratulate all Bolivians who are here, Happy day!
+
+Today I finished with the challenge of 30 days yeii! In case you want to see my progress, I leave you a link https://github.com/susyjam/NutanixHybridCloud
   
 I would like to encourage @Fernando Tello @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Frida @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera
 
