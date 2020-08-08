@@ -34,6 +34,8 @@
 [D28]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D28%20Nutanix.png
 [D29]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D29%20Nutanix.png
 [D30]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D30%20Nutanix.png
+[D31]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D31%20Nutanix.png
+[D31-1]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/nutanixscholarshipcertificateJSMC.jpg
 
 # NUTANIX HYBRID CLOUD FOUNDATION COURSE
 # #30days_udacity
@@ -293,3 +295,15 @@ Today I finished with the challenge of 30 days yeii! In case you want to see my 
 I would like to encourage @Fernando Tello @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Frida @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera
 
 ![Advance D30][D30]
+
+## D31 Friday August 7, 2020
+  1. Today I finished the course! yeiii! It was an exciting path, although to remember concepts and details, I will study more the course.
+Link: https://github.com/susyjam/NutanixHybridCloud
+
+I would like to encourage @Fernando Tello @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Frida @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera
+
+![Advance D31][D31]
+
+Certificate of completion
+
+![Certificate JSMC][D31-1]
