@@ -36,6 +36,8 @@
 [D30]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D30%20Nutanix.png
 [D31]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D31%20Nutanix.png
 [D31-1]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/nutanixscholarshipcertificateJSMC.jpg
+[D32-1]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D32%20meeting%20Spaic%20Nutanix.png
+[D32-2]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D32%20meeting%20Latam%20Nutanix.jpg
 
 # NUTANIX HYBRID CLOUD FOUNDATION COURSE
 # #30days_udacity
@@ -307,3 +309,20 @@ I would like to encourage @Fernando Tello @Yash Mathur @AndyP @Harkirat Singh @S
 Certificate of completion
 
 ![Certificate JSMC][D31-1]
+
+
+## D32 Saturday August 8, 2020
+  1. Today we had a meeting with the #sg_spaic group, Thank you @Sabyh and @DSdatsme for the excellent presentations. And thank you all @Mariia, @Zork, @Alex, @Edgardo Peregrino, @Glin Zachariah, @LauraT, @Oudarjya Sen Sarma, @Remi, @Shankar Warang, @Vatsal Vora, @Vincent Battaglia, @Vishal Ambavade, @Muhammad Haris, @Nigel P, @EO4Wellness
+  2. We also had a presentation from @Fernando Terrazas who told us about Data Science! with the #sg_latm group. Thank you all for your great contribution. @Jorge Barrera  @Viena Baca  @Odaliz @Gabriela Urquieta @Claudio @Patricio.Rojas @Erik Navarrete @Domingo Perez
+
+By the way, those who have finished the #30days_udacity challenge, do not forget to fill out the form
+
+I also wanted to invite you to participate in the #workspacepicturechallenge challenge we want to know where the magic happens 
+https://nutanixcloudchallenge.slack.com/archives/C014JSU6MJQ/p1596944724046400
+I would like to encourage @Fernando Tello @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Frida @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Marco Nogueira @Nigel P @Anshu Trivedi @Víctor Valentinuzzi 
+
+Meeting Spaic
+![Meeting Spaic][D32-1]
+
+Meeting Latam
+![Meetig Latam][D32-2]
