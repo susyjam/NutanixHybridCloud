@@ -319,6 +319,7 @@ By the way, those who have finished the #30days_udacity challenge, do not forget
 
 I also wanted to invite you to participate in the #workspacepicturechallenge challenge we want to know where the magic happens 
 https://nutanixcloudchallenge.slack.com/archives/C014JSU6MJQ/p1596944724046400
+
 I would like to encourage @Fernando Tello @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Frida @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Marco Nogueira @Nigel P @Anshu Trivedi @Víctor Valentinuzzi 
 
 Meeting Spaic
