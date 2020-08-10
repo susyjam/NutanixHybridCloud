@@ -38,6 +38,7 @@
 [D31-1]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/nutanixscholarshipcertificateJSMC.jpg
 [D32-1]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D32%20meeting%20Spaic%20Nutanix.png
 [D32-2]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D32%20meeting%20Latam%20Nutanix.jpg
+[D33]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D27%20Meeting%20Spanish%20ML.jpg
 
 # NUTANIX HYBRID CLOUD FOUNDATION COURSE
 # #30days_udacity
@@ -327,3 +328,12 @@ Meeting Spaic
 
 Meeting Latam
 ![Meetig Latam][D32-2]
+
+## D33 Sunday August 9, 2020
+  1. Today I started to organize myself to review scholarship concepts and review my notes.
+  2. Today I had a meeting with my group #sg_spanish from ML Scholarship Microsoft Azure
+  
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Frida @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Marco Nogueira @Nigel P @Anshu Trivedi @Víctor Valentinuzzi eart:
+
+Meeting Spanish Group of ML Scholarship Microsoft Azure
+![Meetig Spanish][D33]
