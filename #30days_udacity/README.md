@@ -39,6 +39,7 @@
 [D32-1]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D32%20meeting%20Spaic%20Nutanix.png
 [D32-2]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D32%20meeting%20Latam%20Nutanix.jpg
 [D33]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D27%20Meeting%20Spanish%20ML.jpg
+[D34]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/collage.png
 
 # NUTANIX HYBRID CLOUD FOUNDATION COURSE
 # #30days_udacity
@@ -333,7 +334,20 @@ Meeting Latam
   1. Today I started to organize myself to review scholarship concepts and review my notes.
   2. Today I had a meeting with my group #sg_spanish from ML Scholarship Microsoft Azure
   
-I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Frida @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Marco Nogueira @Nigel P @Anshu Trivedi @Víctor Valentinuzzi eart:
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Frida @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Marco Nogueira @Nigel P @Anshu Trivedi @Víctor Valentinuzzi 
 
 Meeting Spanish Group of ML Scholarship Microsoft Azure
 ![Meetig Spanish][D33]
+
+
+## D34 Monday, August 10, 2020
+  1. Today I finished lesson 7 Responsible AI Yeiii! ML Scholarship Microsoft Azure 
+  2. Today I started to think about ways to contribute as a lead in #introductions I am organizing myself, there will be surprises 
+  
+I will share an image that @Mayur Kanojiya made from ML Scholarship Microsoft Azure I loved it very much I hope to achieve something like this with the nutanix challenge
+https://nutanixcloudchallenge.slack.com/archives/C014JSU6MJQ/p1596944724046400
+
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Frida @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Marco Nogueira @Nigel P @Anshu Trivedi @Víctor Valentinuzzi
+
+Beautiful Image
+![Beautiful Image][D34]
