@@ -40,6 +40,7 @@
 [D32-2]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D32%20meeting%20Latam%20Nutanix.jpg
 [D33]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D27%20Meeting%20Spanish%20ML.jpg
 [D34]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/collage.png
+[D35]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D35%20Nutanix.png
 
 # NUTANIX HYBRID CLOUD FOUNDATION COURSE
 # #30days_udacity
@@ -351,3 +352,22 @@ I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barr
 
 Beautiful Image
 ![Beautiful Image][D34]
+
+## D35 Tuesday, August 11, 2020
+  1. Today I finished lesson 8 and with that I finished the course. Yeiii!
+  2. Today I started reviewing the lessons (Lesson 1: Introduction to Nutanix Hybrid Cloud)
+  3. Today I saw my little star in my name aww it's adorable! #30days_udacity 
+  
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Frida @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Marco Nogueira @Nigel P @Anshu Trivedi @Laura Villarreal
+
+My Star!
+
+![My Star][D35]
+
+## D36 Wednesday, August 12, 2020
+  1. Today I finished reviewing Lesson 1: Introduction to Nutanix Hybrid Cloud
+  2. Today I started reviewing Lesson 2: Journey to the modern Hybrid Cloud
+  3. Today I was looking for information about artificial intelligence in video games, it is a really fascinating world. (If you have any page or book about it, I would appreciate it if you share it with me)  
+  4. Today I would like to follow @Edgardo Peregrino initiative, sharing music that I like with all of you, I hope you like spending about 5 minutes listening to some cheesy songs and in Spanish, I will try to vary. https://www.youtube.com/watch?v=mloIJgaia44
+  
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Marco Nogueira @Nigel P @Anshu Trivedi @Edgardo Peregrino @Chris M 
