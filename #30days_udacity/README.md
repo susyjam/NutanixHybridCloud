@@ -371,3 +371,47 @@ My Star!
   4. Today I would like to follow @Edgardo Peregrino initiative, sharing music that I like with all of you, I hope you like spending about 5 minutes listening to some cheesy songs and in Spanish, I will try to vary. https://www.youtube.com/watch?v=mloIJgaia44
   
 I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Marco Nogueira @Nigel P @Anshu Trivedi @Edgardo Peregrino @Chris M 
+
+## D37 Thursday, August 13, 2020
+  1. Today I continued to review Lesson 2: Journey to the Modern Hybrid Cloud
+  2. Today I saw the video: https://www.youtube.com/watch?v=q5gp_39N6XM a little late (I know)
+  3. oday I would like to share the music video with you https://www.youtube.com/watch?v=1lyu1KKwC74
+
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma  @Marco Nogueira @Nigel P @Anshu Trivedi @Edgardo Peregrino @Chris M
+
+## D38 Friday , August 14, 2020
+  1. Today I continued to review Lesson 2: Journey to the Modern Hybrid Cloud
+  2. Today I continued to review Lesson 1: Introduction to Machine Learning with azure
+  3. Today I would like to share this music video with you https://www.youtube.com/watch?v=1DHjAME975Y:corazón_púrpura:
+  
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma  @Marco Nogueira @Nigel P @Anshu Trivedi @Edgardo Peregrino @Chris M
+
+## D39 Saturday, August 15, 2020
+
+  1. I attended the @ latam group meeting where we had two speakers @ Patricio.Rojas and @Domingo Perez, with the topics presented, Data Protection and Containers, It was an interesting meeting, thank you @Jorge Barrera for being aware of the meetings and everyone for attending.
+  2. I attended the #sg_spaic group meeting where I always have fun and learn something interesting, I heard the @Edgardo Peregrino for the first time in his presentation it was great! .... thank you all, you are great @Mariia @Zork, @Abhi, @Edgardo Peregrino, @Alex, @DSdatsme, @Vincent Battaglia, @Sean Brown,  @Shankar Warang, @Anantharam Vemuri, @Muhammad Haris, @Anshu Trivedi, @Kapil C, @Vatsal Vora, @Mahitej, @Shivani, @LauraT, @Sabyh, @Vishal Ambavade, @Oudarjya Sen Sarma, @Yatharth Singh
+  
+## D40 Sunday, August 16, 2020
+  1. I continued to review Lesson 2: Journey to the Modern Hybrid Cloud
+  2. Today I would like to share this music video with you https://www.youtube.com/watch?v=G2iKFUu1itI 
+  
+PS: I had a very heavy day yesterday as I had several meetings and events that I attended as the NGConfCo in addition to giving a talk for an event to be held in Latin America called Women Game Jam and the organization of said event in Bolivia. ... I didn't do my report, that's why I do it today 
+
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma  @Marco Nogueira @Nigel P @Anshu Trivedi @Edgardo Peregrino @Chris M:dancing_penguin:
+
+## D41 Monday, August 17, 2020
+  1. I worked on my Intel project 
+  2. I continued to review Lesson 2: Journey to the Modern Hybrid Cloud
+  
+## D42 Tuesday, August 18, 2020
+  1. I worked on my Intel project
+  2. Today I would like to share this music video with https://www.youtube.com/watch?v=IlrNytpPv34 
+  
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Marco Nogueira @Nigel P @Anshu Trivedi @Edgardo Peregrino @Chris M
+
+## D43 Wednesday, August 19, 2020
+   1. Continue working with my Intel projects
+   2. Finish reviewing Lesson 2: Journey to the Modern Hybrid Cloud.
+   2. Today I would like to share this music video https://www.youtube.com/watch?v=zKrTKXvmdJE
+  
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @ Patricio.Rojas @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @ Oudarjya Sen Sarma @Marco Nogueira @Nigel P @Anshu Trivedi @Edgardo Peregrino @Chris M M
