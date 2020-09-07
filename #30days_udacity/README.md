@@ -41,6 +41,10 @@
 [D33]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D27%20Meeting%20Spanish%20ML.jpg
 [D34]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/collage.png
 [D35]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D35%20Nutanix.png
+[D47]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D47%20Nutanix.png
+[D47-1]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/bingo%20Nutanix%20JSMC.png
+[D60]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D60%20Nutanix%20Spaic.png
+[D61]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D61%20Nutanix.png
 
 # NUTANIX HYBRID CLOUD FOUNDATION COURSE
 # #30days_udacity
@@ -415,3 +419,147 @@ I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barr
    2. Today I would like to share this music video https://www.youtube.com/watch?v=zKrTKXvmdJE
   
 I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @ Patricio.Rojas @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @ Oudarjya Sen Sarma @Marco Nogueira @Nigel P @Anshu Trivedi @Edgardo Peregrino @Chris M M
+
+## D44 Thursday, August 20, 2020
+  1. I started reviewing lesson 3
+  2. I kept working with my Intel projects
+  3. Today I prepared a machine learning talk, I am very nervous xD
+  
+Today I would like to share this music video https://youtu.be/SxxXyQbWdSg
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma  @Marco Nogueira @Nigel P @Anshu Trivedi @Edgardo Peregrino @Chris M @jose praveen @Oladapo Bolarinwa @Abhik Banerjee @Shankar Warang
+
+
+## D45 Friday, August 21, 2020
+  1. I continued to review Lesson 3
+  2. I kept working with my Intel projects: upside down:
+  3. Today I gave a machine learning talk, I was very nervous but apparently they like me, I am happy
+  4. Today I would like to share this music video https://www.youtube.com/watch?v=mH0_XpSHkZo
+
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma  @Marco Nogueira @Nigel P @Anshu Trivedi @Edgardo Peregrino @Chris M @jose praveen @Oladapo Bolarinwa @Abhik Banerjee @Shankar Warang
+
+
+## D46 Saturday, August 22, 2020
+  1. I finished reviewing lesson 3
+  2. I kept working with my Intel projects: backwards:
+  3. Today I would like to share this music video https://www.youtube.com/watch?v=09R8_2nJtjg
+ 
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma  @Marco Nogueira @Nigel P @Anshu Trivedi @Edgardo Peregrino @Chris M @jose praveen  @Pandas @ironBot @Oladapo Bolarinwa @Abhik Banerjee @Shankar Warang
+
+
+## D47 Sunday 23 August 2020
+  1. Today I participated in the Study Jam I made a record of 7 hours OMG! I really enjoyed helping friends, attending webinars and playing games.
+  2. I love seeing everyone with this little badge :studyjamgrad:, I feel very happy and part of it.:purple_heart:
+  3. Oh yes, I also participated in Bingo.
+  4. I kept working with my Intel projects 
+  5. Today I would like to share this music video (I love this song:purple_heart:) https://www.youtube.com/watch?v=RB-RcX5DS5A
+  
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma  @Marco Nogueira @Nigel P @Anshu Trivedi @Edgardo Peregrino @Chris M @jose praveen  @Pandas @ironBot @Oladapo Bolarinwa @Abhik Banerjee @Shankar Warang @Max Rosenthal @LauraT @Ghanshyamkumar @Mokit Hossain @Manoj @AudreyST
+
+Study Jam Badge by @Susyjam
+
+![My Badge Sutydyjam][D47]
+
+Bingo by @Susyjam
+
+![Bingo][D47-1]
+
+## D48 Monday, August 24, 2020
+  1. I started to review Lesson 4
+  2. I kept working with my Intel projects 
+  3. I would like to share this beautiful song live https://youtu.be/BzDY9IkOf-o
+
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma  @Marco Nogueira @Nigel P @Anshu Trivedi @Edgardo Peregrino @Chris M @Jose Rubio   @Pandas @ironBot @Oladapo Bolarinwa @Abhik Mehta @Abhik Banerjee @Shankar Warang @Max Deng @Max Rosenthal @LauraT @Ghanshyamkumar @Mokit Hossain @Manoj @AudreyST
+
+
+## D49 Tuesday 25 August 2020
+  1. I continued reviewing Lesson 4
+  2. I kept working with my Intel projects
+  3. I would like to share this beautiful song live https://www.youtube.com/watch?v=fV4DiAyExN0
+
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V @Navrati @Pandas @Manoj @AudreyST
+
+
+## D50 Wednesday 26 August 2020
+  1. I finished reviewing Lesson 4 yeii
+  2. I kept working with my Intel projects
+  3. I would like to share this beautiful song live https://www.youtube.com/watch?v=2DaRhiCKGMk
+
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V @Navrati @Pandas @Manoj @Max Deng @AudreyST
+
+
+## D51 Thursday 27 August 2020
+  1. I started to review lesson 4 
+  2. I continued working with my Intel projects:cara_de_nerd::gato_sonrisa:  (I think I should focus these days more on my intel projects, they are the last days)
+  3. I would like to share this beautiful song live https://www.youtube.com/watch?v=PIh2xe4jnpk
+
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V @Navrati @Pandas @Manoj @Max Deng @AudreyST
+
+
+## D52 Friday August 28, 2020
+  1. I kept working with my Intel projects
+  2. I continued reviewing lesson 4 yeiii
+  3. I would like to share this beautiful song https://www.youtube.com/watch?v=5QYxuGQMCuU
+  
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V @Navrati @Pandas @Manoj @Max Deng @AudreyST
+
+## D53 Saturday August 29, 2020
+  1. I kept working with my Intel projects
+  2. I continued reviewing lesson 4 
+  3. I would like to share this beautiful song https://youtu.be/_OMFpewFICg
+  
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V  @Navrati @Pandas @Manoj @Max Deng @AudreyST:dancing_penguin
+
+## D54 Sunday, August 30, 2020
+  1. I continued reviewing lesson 4 
+  2. I would like to share this beautiful song that I love https://youtu.be/rtOvBOTyX00
+  
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V  @Navrati @Pandas @Manoj @Max Deng @AudreyST
+
+## D55 Monday, August 31, 2020
+  1. I finished reviewing lesson 4 yeiii
+  2. I would like to share this beautiful song that I love https://youtu.be/VXWlrPYY4h8
+  
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V  @Navrati @Pandas @Manoj @Max Deng @AudreyST
+
+## D56 Tuesday, September 1, 2020
+  1.I started reviewing lesson 5 yeiii
+  2.I would like to share this beautiful song https://youtu.be/f6Cswdm601A
+  
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma  @Madhav Bangaru @AudreyST @Carlos Rojas V @Navrati @Pandas @Manoj @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys
+
+## D57 Wednesday September 2, 2020
+  1. I continued reviewing Lesson 5
+  2. I would like to share this beautiful song https://www.youtube.com/watch?v=A9D0oYlLoWA
+  
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma  @Madhav Bangaru @AudreyST @Carlos Rojas V @Navrati @Pandas @Manoj @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys
+
+## D58 Thursday, September 3, 2020
+  1. I continued reviewing Lesson 5
+  2. I would like to share this beautiful song https://youtu.be/KAhf4xFBgtQ
+  
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma  @Madhav Bangaru @AudreyST @Carlos Rojas V @Navrati @Pandas @Manoj @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys
+
+## D59 Friday, September 4, 2020
+  1. I finished reviewing Lesson 5
+  2. I would like to share this beautiful song in Spanish, it is very romantic https://youtu.be/hXA3NaNO26c
+  
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma  @Madhav Bangaru @AudreyST @Carlos Rojas V @Navrati @Pandas @Manoj @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys
+
+## D60 Saturday September 5, 2020
+  1. Today I had a meeting with the group #sg_spaic, Thank you @Mariia and @DSdatsme for your presentation!... I loved this photo for the emotion that @Edgardo Peregrino transmits, I love her joy and madness captured in a photo. thanks guys @Mariia, @Alex, @Sabyh, @Vatsal Vora, @Zork, @DSdatsme, @Edgardo Peregrino, @Glin Zachariah, @Hafeez Ghanchi, @Krishna Chari, @LauraT, @Muhammad Haris, @Muhammad Usama Khan, @Vishal Ambavade, @Remi, @Oudarjya Sen Sarma
+  2. I would like to share this beautiful song, it is very romantic https://www.youtube.com/watch?v=rLm_aSP369M
+
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V @Navrati @Pandas @Manoj @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys
+
+Meeting Sg_Spaic
+![Meeting Sg_Spaic][D60]
+
+## D61 Sunday September 6, 2020
+  1. Today I had a relaxation meeting with the group #sg, it was great to talk with all @Jorge Luis Rodríguez González @AndyP @Fernando Terrazas 
+  2. I would like to share this beautiful song https://www.youtube.com/watch?v=wdHeiVf0mds
+  
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V @Navrati @Pandas @Manoj @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys
+
+Meeting Sg_Latam
+
+![Meeting Sg_Latam][D61]
