@@ -563,3 +563,9 @@ I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barr
 Meeting Sg_Latam
 
 ![Meeting Sg_Latam][D61]
+
+## D62 Monday September 7, 2020
+  1. Today I started reviewing lesson 6
+  2. I would like to share this beautiful song https://youtu.be/AEp08vVYreg
+  
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V @Navrati @Pandas @Manoj @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys
