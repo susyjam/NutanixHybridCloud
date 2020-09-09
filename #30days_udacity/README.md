@@ -569,3 +569,13 @@ Meeting Sg_Latam
   2. I would like to share this beautiful song https://youtu.be/AEp08vVYreg
   
 I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V @Navrati @Pandas @Manoj @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys
+
+## D63 Tuesday September 8, 2020
+  1. Today I continued reviewing lesson 6 (Nutanix)
+  2. I attended Azure webinar series: Reduce Data Costs by Migrating to Azure SQL Managed Databases
+  3. I attended this training in Spanish given by Google https://www.youtube.com/watch?v=zt4mKnM1L8A&t=48s
+  4. I would like to share this beautiful song https://youtu.be/7wtfhZwyrcc
+  5. My repository for challenge #30days_udacity https://github.com/susyjam/NutanixHybridCloud/tree/master/%2330days_udacity
+  
+I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V @Navrati @Pandas @Manoj @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys
+
