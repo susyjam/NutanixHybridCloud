@@ -45,6 +45,8 @@
 [D47-1]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/bingo%20Nutanix%20JSMC.png
 [D60]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D60%20Nutanix%20Spaic.png
 [D61]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D61%20Nutanix.png
+[D67]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D67%20Meeting%20Sglat%20Nutanixx
+[D67-1]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/HappyPD.jpg
 
 # NUTANIX HYBRID CLOUD FOUNDATION COURSE
 # #30days_udacity
@@ -605,3 +607,19 @@ I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @J
   
 I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V  @Navrati @Pandas @Manoj @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys
 
+
+## D67 Saturday, September 12, 2020
+  1. I attended @Jorge's presentation in group # sg who explained a very simple and straightforward tutorial on launching a REST API on an AWS EC2 instance... Thanks for coming @ Víctor Valentinuzzi, @AndyP, @Domingo Perez, @Jorge Luis Rodríguez González 
+  2. By the way, happy programmer's day everyone!
+  3. I would like to share this beautiful song  https://youtu.be/W-TE_Ys4iwM .... @Sabyh :dancing_penguin:
+  4. My repository for challenge #30days_udacity https://github.com/susyjam/NutanixHybridCloud/tree/master/%2330days_udacity
+  
+I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V  @Navrati @Pandas @Manoj @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys
+
+Meeting Sg_Latam
+
+![Meeting Sg_Latam][D67]
+
+Happy Programmer's day!
+
+![Happy Programmer's day!][D67-1]
