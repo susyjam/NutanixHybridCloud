@@ -48,6 +48,8 @@
 [D67]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D67%20Meeting%20Sglat%20Nutanixx
 [D67-1]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/HappyPD.jpg
 [D67-2]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D67%20Meeting%20Spaic%20Nutanix.png
+[D68-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D62%20ML%20Sg%20Spanish%20PS.png
+[D68-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D62%20Meeting%20Sg%20Spanish%20ML.jpeg
 
 # NUTANIX HYBRID CLOUD FOUNDATION COURSE
 # #30days_udacity
@@ -629,3 +631,16 @@ Meeting Sg_Spaic
 Happy Programmer's day!
 
 ![Happy Programmer's day!][D67-1]
+
+## D68 Sunday, September 13, 2020
+  1. Today I stared to review Lesson 7
+  2. Today I participated in a meeting with my group for the microsoft scholarship.
+  3. I would like to share this beautiful song  https://www.youtube.com/watch?v=t4H_Zoh7G5A
+  4. My repository for challenge #30days_udacity https://github.com/susyjam/NutanixHybridCloud/tree/master/%2330days_udacity
+  
+I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V  @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys
+
+Meeting Sg_Spanish ML
+
+![Meeting Sg_Spanish ML][D68-1]
+![Meeting Sg_Spanish ML][D68-2]
