@@ -33,12 +33,7 @@
 [D27]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D27%20Nutanix.png
 [D28]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D28%20Nutanix.png
 [D29]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D29%20Nutanix.png
-[D30]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D30%20N#30days_udacity :heads-down:
-D68 Monday, September 14, 2020
-Today I Continued to review Lesson 7:nerd_face:
-I would like to share this beautiful song  https://youtu.be/DMc3XDOy3AY
-My repository for challenge #30days_udacity https://github.com/susyjam/NutanixHybridCloud/tree/master/%2330days_udacity
-I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V  @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys:purple_heart: utanix.png
+[D30]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D30%20Nutanix.png
 [D31]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D31%20Nutanix.png
 [D31-1]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/nutanixscholarshipcertificateJSMC.jpg
 [D32-1]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D32%20meeting%20Spaic%20Nutanix.png
