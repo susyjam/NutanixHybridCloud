@@ -50,6 +50,7 @@
 [D67-2]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D67%20Meeting%20Spaic%20Nutanix.png
 [D68-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D62%20ML%20Sg%20Spanish%20PS.png
 [D68-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D62%20Meeting%20Sg%20Spanish%20ML.jpeg
+[D69]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/we%20can%20do%20it.gif
 
 # NUTANIX HYBRID CLOUD FOUNDATION COURSE
 # #30days_udacity
@@ -651,3 +652,13 @@ Meeting Sg_Spanish ML
   3. My repository for challenge #30days_udacity https://github.com/susyjam/NutanixHybridCloud/tree/master/%2330days_udacity
   
 I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V  @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys 
+
+## D69 Tuesday, September 15, 2020
+  1. Today I Continued to review Lesson 7:nerd_face:
+  2. I would like to share this beautiful song  https://www.youtube.com/watch?v=KXw8CRapg7k
+  3. My repository for challenge #30days_udacity https://github.com/susyjam/NutanixHybridCloud/tree/master/%2330days_udacity
+  4. I encourage everyone to finish this great challenge! There are only 15 days left, we can do it!
+  
+I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V  @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys:purple_heart:
+
+![We can do it!][D69]
