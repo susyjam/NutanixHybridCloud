@@ -73,7 +73,13 @@
   
 I would like to encourage @Sabyh, @Fernando Terrazas, @AndyP, @Anshu Trivedi, @Oudarjya Sen Sarma, @Marco__, @Madison, @Frida and @Mariia to continue their good work!
 
-## D4 Saturday July 11, 2020
+## D4 Saturday July 11, 2020#30days_udacity :heads-down:
+D70 Wednesday, September 16, 2020
+Today I Continued to review Lesson 7:nerd_face:
+I would like to share this beautiful spanish song https://www.youtube.com/watch?v=zKrTKXvmdJE
+My repository for challenge #30days_udacity https://github.com/susyjam/NutanixHybridCloud/tree/master/%2330days_udacity
+I encourage everyone to finish this great challenge! There are only 15 days left, we can do it!
+I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V Rojas V  @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys:purple_heart:
   1. Today I continued with Lesson 2.10 - 2.12
   2. In addition to participating in 2 meetings
     The first was with the #sg_latm group along with @Domingo Perez @Jorge Barrera @Patricio Rojas @Fernando Terrazas where we met and talked a little about ourselves.
@@ -335,7 +341,13 @@ https://nutanixcloudchallenge.slack.com/archives/C014JSU6MJQ/p1596944724046400
 
 I would like to encourage @Fernando Tello @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Frida @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Marco Nogueira @Nigel P @Anshu Trivedi @Víctor Valentinuzzi 
 
-Meeting Spaic
+Meeting Spaic#30days_udacity :heads-down:
+D70 Wednesday, September 16, 2020
+Today I Continued to review Lesson 7:nerd_face:
+I would like to share this beautiful spanish song https://www.youtube.com/watch?v=zKrTKXvmdJE
+My repository for challenge #30days_udacity https://github.com/susyjam/NutanixHybridCloud/tree/master/%2330days_udacity
+I encourage everyone to finish this great challenge! There are only 15 days left, we can do it!
+I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V Rojas V  @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys:purple_heart:
 ![Meeting Spaic][D32-1]
 
 Meeting Latam
@@ -662,3 +674,10 @@ I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sab
 I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V  @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys:purple_heart:
 
 ![We can do it!][D69]
+
+## D70 Wednesday, September 16, 2020
+  1. Today I Continued to review Lesson 7:nerd_face:
+  2. I would like to share this beautiful spanish song https://www.youtube.com/watch?v=zKrTKXvmdJE
+  3. My repository for challenge #30days_udacity https://github.com/susyjam/NutanixHybridCloud/tree/master/%2330days_udacity
+  
+I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V Rojas V  @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys:purple_heart:
