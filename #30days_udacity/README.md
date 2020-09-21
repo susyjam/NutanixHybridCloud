@@ -51,6 +51,7 @@
 [D68-1]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D62%20ML%20Sg%20Spanish%20PS.png
 [D68-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D62%20Meeting%20Sg%20Spanish%20ML.jpeg
 [D69]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/we%20can%20do%20it.gif
+[D73]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D73%20Sg_latam%20Nutanix.JPG
 
 # NUTANIX HYBRID CLOUD FOUNDATION COURSE
 # #30days_udacity
@@ -673,6 +674,8 @@ I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sab
   
 I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V  @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys:purple_heart:
 
+### We can do it!
+
 ![We can do it!][D69]
 
 ## D70 Wednesday, September 16, 2020
@@ -694,3 +697,22 @@ I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @J
   2. I would like to share this beautiful song (Spanish) https://youtu.be/xXD_IEcZbMI
   3. My repository for challenge #30days_udacity https://github.com/susyjam/NutanixHybridCloud/tree/master/%2330days_udacity
 I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V  @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys:purple_heart:
+
+## D73 Saturday, September 19, 2020
+  1. Today I continued to review Lesson 7
+  2. I would like to share this beautiful song  https://youtu.be/rLm_aSP369M
+  3. I participated in the quick #sg_spaic meeting and the fun questions on the channel.:nerd_face:
+  4. I participated in a group meeting #sg_latm where we planned our last activities for our last meeting. Thanks @Jorge Barrera, @AndyP, @Víctor Valentinuzzi, @Odaliz :purple_heart:
+  
+Meeting Sg_Latm
+
+![Meeting Sg_Latm][D73]
+  
+## D74 Sunday, September 20, 2020
+  1. I participated in Microsoft scholarship activities, it was a very intense day:sweat_smile:
+  2. I would like to share this beautiful song https://youtu.be/52nfjRzIaj8
+
+My repository for challenge #30days_udacity https://github.com/susyjam/NutanixHybridCloud/tree/master/%2330days_udacity
+
+I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V  @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys:purple_heart:
+
