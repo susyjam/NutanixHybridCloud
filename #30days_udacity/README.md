@@ -52,6 +52,7 @@
 [D68-2]: https://github.com/susyjam/MicrosoftAzureML/blob/master/%2350daysofudacity/images/D62%20Meeting%20Sg%20Spanish%20ML.jpeg
 [D69]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/we%20can%20do%20it.gif
 [D73]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D73%20Sg_latam%20Nutanix.JPG
+[D75]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/happy-students-eye-glasses-on-hand.jpg
 
 # NUTANIX HYBRID CLOUD FOUNDATION COURSE
 # #30days_udacity
@@ -716,3 +717,14 @@ My repository for challenge #30days_udacity https://github.com/susyjam/NutanixHy
 
 I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V  @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys:purple_heart:
 
+## D75 Monday, September 21, 2020
+  1. Today I continued to review Lesson 7
+  2. I would like to share this beautiful song https://youtu.be/3DQATvwX4aI
+  3. Today in my country is student's day, so I want to congratulate all of you who dedicate time to constant study, you are really great! Do not stop learning:nerd_face:
+  4. My repository for challenge #30days_udacity https://github.com/susyjam/NutanixHybridCloud/tree/master/%2330days_udacity
+  
+I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V  @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys:purple_heart:
+
+Happy student's day
+
+![Happy student's day][D75]
