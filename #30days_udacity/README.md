@@ -53,6 +53,12 @@
 [D69]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/we%20can%20do%20it.gif
 [D73]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D73%20Sg_latam%20Nutanix.JPG
 [D75]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/happy-students-eye-glasses-on-hand.jpg
+[D80]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D80%20CDDB.jpg
+[D80-1]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D80%20MyBingoJSMCTheFinalJam.jpg
+[D80-2]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D80%20Webinar.jpg
+[D80-3]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D80%20Nutanix%20Jam.jpg
+[D80-4]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/StudyJam2%20NUTANIX.png
+
 
 # NUTANIX HYBRID CLOUD FOUNDATION COURSE
 # #30days_udacity
@@ -758,3 +764,39 @@ I would like to encourage @Edgardo Peregrino @Nigel P @Yash Mathur @AndyP @
   3. My repository for challenge #30days_udacity https://github.com/susyjam/NutanixHybridCloud/tree/master/%2330days_udacity
   
 I would like to encourage @Edgardo Peregrino @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys:purple_heart:
+
+## D80  Saturday, September 26, 2020
+  1. Today I participated in the final jam at Nutanix, it was incredible!
+  2. Participate in the Bingo card, it is the first time I have filled all the bingo! I loved! thanks @LauraT 
+  3. I added some music to #the_final_jam with all of you, I was surprised with some songs that you shared.
+  4. I participated in webinars, thanks @Shivani for your great presentation.
+  5. I got the nice badge :studyjam2:! I love that they love them badge!
+  6. I did a little quiz game about harry pother, it was fun spending time with you guys, thanks for participating
+  7. Thanks @RobG for all the work and attention to every detail of this #the_final_jam, you are great
+  8. I participated in several events of Collective Voices LATAM - Women Techmakers.
+  9. We organize in the first event of data scientists Bolivia where we talk about Data Science, I love sharing knowledge.
+  10. I would like to share this beautiful song https://youtu.be/tcrTQUVkUe0
+  11.  repository for challenge #30days_udacity https://github.com/susyjam/NutanixHybridCloud/tree/master/%2330days_udacity
+  
+I would like to encourage @Edgardo Peregrino @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys:purple_heart:
+
+1er Webinar - Científicas de Datos Bolivia
+
+![1er Webinar - Científicas de Datos Bolivia][D80]
+
+My Bingo card JSMC The Final Study Jam
+
+![My Bingo card JSMC The Final Study Jam][D80-1]
+
+Webinar The Final Jam
+
+![Webinar The Final Jam][D80-2]
+
+Nutanix jam Music
+
+![Nutanix jam Music][D80-3]
+
+Badge The Final Jam (Study Jam)
+
+![Badge The Final Jam][D80-4]
+
