@@ -95,9 +95,9 @@ I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @J
 
 I would like to encourage @Sabyh, @AndyP, @Anshu Trivedi, @Oudarjya Sen Sarma, @Marco_, @Madison, @Anmol Gupta and @Yash Mathur to continue their good work! 
 
-Latam Meeting
+### Latam Meeting
 ![Latam meeting][D4]
-Spaic Meeting
+### Spaic Meeting
 ![Spaic meeting][D4-1]
 
 ## D5 Sunday July 12, 2020
@@ -159,9 +159,9 @@ I love meeting days, you always learn something great:corazón_púrpura:
 I would like to encourage @Sabyh @Marco_ @Harkirat Singh @Yash Mathur :dancing_penguin::meow_party:
 
 ![Advance D11-1][D11-1]
-Metting Latam 
+### Metting Latam 
 ![Metting Latam D11-2][D11-2]
-Metting SPAIC
+### Metting SPAIC
 ![Metting Spaic  D11-3][D11-3]
 ![Metting Spaic D11-4][D11-4]
 ![Metting Spaic D11-5][D11-5]
@@ -282,11 +282,11 @@ I would like to encourage @Harkirat Singh @Yash Mathur @Marco_ @Anshu Trivedi @A
 
 I would like to encourage @AndyP @Harkirat Singh @Yash Mathur @Sabyh @Marco_ @Lara Freiria @Oudarjya Sen Sarma @LauraT @Mokit Hossain
 
-Advance D25
+### Advance D25
 ![Meeting Spaic D25][D25-1]
-Metting Latam
+### Metting Latam
 ![Advance D25][D25-2]
-Meeting Spaic
+### Meeting Spaic
 ![Metting Latam D25][D25-3]
 
 ## D26 Sunday August 2, 2020
@@ -333,7 +333,7 @@ I would like to encourage @Fernando Tello @Yash Mathur @AndyP @Harkirat Singh @S
 
 ![Advance D31][D31]
 
-Certificate of completion
+### Certificate of completion
 
 ![Certificate JSMC][D31-1]
 
@@ -358,7 +358,7 @@ I encourage everyone to finish this great challenge! There are only 15 days left
 I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V Rojas V  @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys:purple_heart:
 ![Meeting Spaic][D32-1]
 
-Meeting Latam
+### Meeting Latam
 ![Meetig Latam][D32-2]
 
 ## D33 Sunday August 9, 2020
@@ -367,7 +367,7 @@ Meeting Latam
   
 I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Frida @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Marco Nogueira @Nigel P @Anshu Trivedi @Víctor Valentinuzzi 
 
-Meeting Spanish Group of ML Scholarship Microsoft Azure
+### Meeting Spanish Group of ML Scholarship Microsoft Azure
 ![Meetig Spanish][D33]
 
 
@@ -380,7 +380,7 @@ https://nutanixcloudchallenge.slack.com/archives/C014JSU6MJQ/p1596944724046400
 
 I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Frida @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Marco Nogueira @Nigel P @Anshu Trivedi @Víctor Valentinuzzi
 
-Beautiful Image
+### Beautiful Image
 ![Beautiful Image][D34]
 
 ## D35 Tuesday, August 11, 2020
@@ -390,7 +390,7 @@ Beautiful Image
   
 I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Frida @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Marco Nogueira @Nigel P @Anshu Trivedi @Laura Villarreal
 
-My Star!
+### My Star!
 
 ![My Star][D35]
 
@@ -481,11 +481,11 @@ I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barr
   
 I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma  @Marco Nogueira @Nigel P @Anshu Trivedi @Edgardo Peregrino @Chris M @jose praveen  @Pandas @ironBot @Oladapo Bolarinwa @Abhik Banerjee @Shankar Warang @Max Rosenthal @LauraT @Ghanshyamkumar @Mokit Hossain @Manoj @AudreyST
 
-Study Jam Badge by @Susyjam
+### Study Jam Badge by @Susyjam
 
 ![My Badge Sutydyjam][D47]
 
-Bingo by @Susyjam
+### Bingo by @Susyjam
 
 ![Bingo][D47-1]
 
@@ -577,7 +577,7 @@ I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barr
 
 I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V @Navrati @Pandas @Manoj @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys
 
-Meeting Sg_Spaic
+### Meeting Sg_Spaic
 ![Meeting Sg_Spaic][D60]
 
 ## D61 Sunday September 6, 2020
@@ -586,7 +586,7 @@ Meeting Sg_Spaic
   
 I would like to encourage @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V @Navrati @Pandas @Manoj @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys
 
-Meeting Sg_Latam
+### Meeting Sg_Latam
 
 ![Meeting Sg_Latam][D61]
 
@@ -641,15 +641,15 @@ I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sab
   
 I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V  @Navrati @Pandas @Manoj @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys
 
-Meeting Sg_Latam
+### Meeting Sg_Latam
 
 ![Meeting Sg_Latam][D67]
 
-Meeting Sg_Spaic
+### Meeting Sg_Spaic
 
 ![Meeting Sg_Spaic][D67-2]
 
-Happy Programmer's day!
+### Happy Programmer's day!
 
 ![Happy Programmer's day!][D67-1]
 
@@ -661,7 +661,7 @@ Happy Programmer's day!
   
 I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V  @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys
 
-Meeting Sg_Spanish ML
+### Meeting Sg_Spanish ML
 
 ![Meeting Sg_Spanish ML][D68-1]
 ![Meeting Sg_Spanish ML][D68-2]
@@ -711,7 +711,7 @@ I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @J
   3. I participated in the quick #sg_spaic meeting and the fun questions on the channel.:nerd_face:
   4. I participated in a group meeting #sg_latm where we planned our last activities for our last meeting. Thanks @Jorge Barrera, @AndyP, @Víctor Valentinuzzi, @Odaliz :purple_heart:
   
-Meeting Sg_Latm
+### Meeting Sg_Latm
 
 ![Meeting Sg_Latm][D73]
   
@@ -731,7 +731,7 @@ I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @J
   
 I would like to encourage @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V  @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys:purple_heart:
 
-Happy student's day
+### Happy student's day
 
 ![Happy student's day][D75]
 
@@ -780,23 +780,23 @@ I would like to encourage @Edgardo Peregrino @Nigel P @Yash Mathur @AndyP @
   
 I would like to encourage @Edgardo Peregrino @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @Carlos Rojas V @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys:purple_heart:
 
-1er Webinar - Científicas de Datos Bolivia
+### 1er Webinar - Científicas de Datos Bolivia
 
 ![1er Webinar - Científicas de Datos Bolivia][D80]
 
-My Bingo card JSMC The Final Study Jam
+### My Bingo card JSMC The Final Study Jam
 
 ![My Bingo card JSMC The Final Study Jam][D80-1]
 
-Webinar The Final Jam
+### Webinar The Final Jam
 
 ![Webinar The Final Jam][D80-2]
 
-Nutanix jam Music
+### Nutanix jam Music
 
 ![Nutanix jam Music][D80-3]
 
-Badge The Final Jam (Study Jam)
+### Badge The Final Jam (Study Jam)
 
 ![Badge The Final Jam][D80-4]
 
@@ -806,3 +806,10 @@ Badge The Final Jam (Study Jam)
   3. My repository for challenge #30days_udacity https://github.com/susyjam/NutanixHybridCloud/tree/master/%2330days_udacity
   
 I would like to encourage @Edgardo Peregrino @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @kuro @Andres Quisbert  @Carlos Rojas V @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys:purple_heart:
+
+## D82  Monday, September 28, 2020
+  1. Today I reviewed part of the lessons for microsoft scholarships. I will continue with the rest tomorrow.:nerd_face:
+  2. I would like to share this beautiful song https://www.youtube.com/watch?v=SuOJ59ra63g
+  3. My repository for challenge #30days_udacity https://github.com/susyjam/NutanixHybridCloud/tree/master/%2330days_udacity
+  
+I would like to encourage @Edgardo Peregrino @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @kuro @Andres Quisbert  @Carlos Rojas V @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys:purple_heart:
