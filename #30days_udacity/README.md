@@ -58,6 +58,8 @@
 [D80-2]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D80%20Webinar.jpg
 [D80-3]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/D80%20Nutanix%20Jam.jpg
 [D80-4]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/StudyJam2%20NUTANIX.png
+[D84-1]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/Grace.jpg
+[D84-2]: https://github.com/susyjam/NutanixHybridCloud/blob/master/%2330days_udacity/images/Brenda.jpg
 
 
 # NUTANIX HYBRID CLOUD FOUNDATION COURSE
@@ -813,3 +815,22 @@ I would like to encourage @Edgardo Peregrino @Nigel P @Yash Mathur @AndyP @
   3. My repository for challenge #30days_udacity https://github.com/susyjam/NutanixHybridCloud/tree/master/%2330days_udacity
   
 I would like to encourage @Edgardo Peregrino @Nigel P @Yash Mathur @AndyP @Harkirat Singh @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @kuro @Andres Quisbert  @Carlos Rojas V @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST:dancing_penguin: ... great job and happy learning guys:purple_heart:
+
+## D83  Tuesday, September 29, 2020
+I had heavy days from work and other activities of the technological communities in which I support, but as I always come to make my last reports, without a doubt I will miss doing these reports:purple_heart:
+  1. I would like to share this beautiful song https://youtu.be/RB-RcX5DS5A
+## D84  Wednesday, September 30, 2020
+  1. Today I got nostalgic, I am a very sentimental person, I really liked sharing with all of you this great learning path, I met great people, I learned a little more English, I had a lot of fun learning, I loved all the meetings I had with #sg_spaic and #sg_latm are the best groups that I love. I loved participating in all the activities, Thank you @Grace.Udacity for each of your initiatives, for the joy and constant motivation.:purple_heart:
+  2. I would like to share this beautiful song https://youtu.be/fLexgOxsZu0
+  3. thanks for inspiring us so much @Grace.Udacity @Brenda.Udacity 
+  4. My repository for challenge #30days_udacity https://github.com/susyjam/NutanixHybridCloud/tree/master/%2330days_udacity
+
+Thanks to all of you for every moment shared in this learning @Edgardo Peregrino @Nigel P @Yash Mathur @AndyP @Harkirat Singh  @Sabyh @Jorge Barrera @Frida @Patricio.Rojas  @Marco_ @Lara Freiria @Anshu Trivedi @Fernando Terrazas @LauraT @Mohamed Fazal Mustafa @Mokit Hossain @Christian Rivera @RobG @Oudarjya Sen Sarma @Madhav Bangaru @AudreyST @kuro @Andres Quisbert  @Carlos Rojas V  @Navrati @Pandas @Manoj  @THIYAGARAJAN @Selvi @Max Deng @AudreyST @Anshu Trivedi , @susyjam, @Sabyh, @Richu Thomas  @Rishi Rao @Eshwar Kamalapathy @Ankita Ghosh, @LauraT,  @Shankar Warang, @Muhammad Haris, @Phuong Nguyen, @Ashique Bin Iqbal @Muhammad Arif Wicaksana @Parampreet Kaur @Ankur Shishodia @Korene Stuart @Edi @Vivek  @Ashique Bin Iqbal @Vishnu Vamsee Paningipalli @Jiva @Ashwin Kumar T @Shubham Kumar  @Korene Stuart @pradeep , @Md. Abdul Monim @Lara Freiria @Jhonatan Nagasako @DSdatsme @E.O. @Marco  @Ashique Bin Iqbal @Jayaraj J @Edgardo Peregrino @JohnBucMoore @Olivia @Nishant Sharma @Romana Akter @ankit_deshmukh @Parampreet Kaur  @Vikash Chauhan @xuren71 @Randy Neil @Emily Chang @Chris M @Oudarjya Sen Sarma @Marco_ @Omar @Arushikha @Rahul P. @Melissa Bloomer @Rashmi Nagpal @Abhinav Rastogi @Jinny @Emad Saleh @Abhinav Rastogi @pradeep  @Grace.Udacity @Brenda.Udacity @Dani @AndyP @Frida @susyjam @Prathyusha @Madison @Anshu Trivedi  @Yash Kulkarni @Shankar Warang @xuren71 @Mariia @Odaliz @LauraT @Sabyh @Raunak Sarada @LauraT @Raunak Sarada  @Oudarjya Sen Sarma  @THIYAGARAJAN @Gabriela Urquieta @George Nyandika @Omar @LauraT @Susmitha @Paloma @sbessette @AudreyST @Bunny @Krishna Chari  @Vatsal Vora @rahul  @Jinny @Frida @AndyP @PoodleBytes @Sahil Wasan @Tali @Kapil C @Parampreet Kaur @Ashraf Kanyadakam  @susyjam @JohnBucMoore @Shivani @Harkirat Singh   @Muhammad Haris @Vishnu Vamsee Paningipalli @Mir Shahzad @Lovepreet Singh @Ankur Shishodia @Rishi Rao @Lara Freiria @Chris M @Yash Bhamare @Sandeep Reddy Salkuti @Amardeep Singh @Shivani  @Mark R Baker @Donna.L @Sean Brown @RobG @Kapil C @Sandeep Reddy Salkuti @susyjam @Ipsita @Donna.L @Ipsita @Md. Fahim Foysal @SK @Wilson_Udacity @Claudio @Edgardo Peregrino @George Nyandika @Sadia @Syed Muhammad Masab Hashmi @Alex  @Victor @Joagovi @Syahril Ramadhan @Joagovi @Vincent Battaglia  @Zork @Ankita Ghosh @Sichen @Patricio.Rojas @Diptesh Sil @J Prem Shanker @shashvat gupta @Mary Becken @Jose Rubio @Christine Rehm @Marco Nogueira @Dhirendra @Moussa.seck @Sudheer Kumar  @Anna Brakowska @Leo Hideki @Mahesh BUDAVARAPU @Rao Kamran  @Sandeep Kumar Jha @Chucks @Jorge Luis Rodríguez González @Anshu Trivedi @Omar Bataineh @Mokit Hossain @Ritvik Gupta @masnoon @Vignesh Natarajan @Marco Nogueira @Melissa Bloomer @Ahmad Turay @Korene Stuart @Isaac Yauri @Hung  @xuren71 @Santhosh Kumar  @jatin mittal @Dev Ranjan @Souvik Jana @Rav @Jhonatan Nagasako @Christine Rehm @Juan T @Remi @Jaykumar Patel @Quan @Wilson.Udacity @Christian Rivera @SALMAN ZAMAN @Nigel P @Jonathan Blanco @JohnBucMoore  @Anshu Trivedi, @susyjam, @Sabyh, @Richu Thomas  @Rishi Rao @Oudarjya Sen Sarma, @Eshwar Kamalapathy, @LauraT,  @Shankar Warang, @Muhammad Haris, @Phuong Nguyen, @Ashique Bin Iqbal @Muhammad Arif Wicaksana @Parampreet Kaur @Ankur Shishodia @Korene Stuart @Vivek  @Ashique Bin Iqbal @Vishnu Vamsee Paningipalli @Jiva @Ashwin Kumar T @Shubham Kumar  @Korene Stuart @pradeep , @Md. Abdul Monim @nikunj @Noel Situ @Harkirat Singh  @JP @Peter @Leo Hideki @Mayuresh Mitkari @susyjam @AudreyST @Jagannath Nori @Marco Nogueira  @Vladimir Albertiyan @Pandas @DSdatsme @Vishnu Vamsee Paningipalli  @Luis Solorzano:dancing_penguin::purple_heart:
+
+## They are my inspiration
+### Grace.Udacity
+![Grace.Udacity][D84-1]
+
+### Brenda.Udacity
+
+![Brenda.Udacity][D84-2]
